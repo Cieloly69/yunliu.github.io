@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+{% include base_path %}
+
 Invited Talks
 ------
 - *Relative Join Construction and Towers of Borel Fibrations*, Cornell Topology Seminar, Cornell University, May 2024 (coming)
