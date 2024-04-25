@@ -14,6 +14,7 @@ Education
 * **Cornell University**, Ithaca, NY
   * Ph.D in Mathematics, July 2023
   * M.S. in Computer Science, August 2018
+  * Advisor: Yuri Berest
 * **Fudan university**, Shanghai, China
   * B.S. in Mathematics and Applied Mathematics, June 2016
   * Minor in English-Chinese Translation
