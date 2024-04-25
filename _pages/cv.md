@@ -11,54 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, Cornell University, 2023
-* M.S. in Computer Science, Cornell University, 2018
-* B.S. in Mathematics and Applied Mathematics, Fudan University, 2016
+* **Cornell University**, Ithaca, NY
+  * Ph.D in Mathematics, July 2023
+  * M.S. in Computer Science, Aug 2018
+* **Fudan university**, Shanghai, China
+  * B.S. in Mathematics and Applied Mathematics, June 2016
+  * Minor in English-Chinese Translation
 
-Work experience
+Academic Positions
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Indian University Bloomington**, Bloomington, IN 
+  * Zorn Psotdoctoral Fellow, Aug 2023 - present
+  * Mentor: Ajay Ramadosss
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Cornell University**, Ithaca, NY
+   * Teaching Assistant, 2017 - 2023
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
